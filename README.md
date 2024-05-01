@@ -1,7 +1,7 @@
 # voice-notes-system
 System for taking voice notes and transcribing them, organizing notes into themes, and ultimately organizing them into a usable notes system.
 
-[Follow My SEO Work](https://rkseo.xyz/)
+[Follow My SEO Work](https://rkseo.xyz/@blank)
 
 ## Intro & Context
 With this, the main issue I wanted to try and tackle is combatting the difficulty of capturing an idea. Often when you have an idea, being able to quickly get the idea from your brain into some form of note is key to trying to capture the idea in it's "purist" form. 

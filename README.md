@@ -47,7 +47,7 @@ As a bonus, it also logs the file count, runtime in seconds, and character count
 ### Transcript & Information Organization
 Once you have the transcript you need to organize it so that you can organize it into your own notes system. 
 
-I do the first layer of organization via an LLM Agent (using either GPT4, or claude3 as of late). Simply put this agent aims to reorganize the notes verbatim and into themes. I made a point to have it not reword or summarize anything at all, but if you wanted this could be a pretty easy tweak to make. I would just rather make my own summaries rather than trust an LLM to potentially omit key information. 
+I do the first layer of organization via an LLM Agent (using either GPT4, or claude3 as of late). Simply put this agent aims to reorganize the notes verbatim and into themes. I made a point to have it not reword or summarize anything at all, but if you wanted this could be a pretty easy tweak to make. I would just rather make my own summaries rather than trust an LLM to potentially omit key information. [Notes Organizer Agent](https://github.com/krutzar/voice-notes-system/blob/main/notes-organizer-agent.md)
 
 This is also where potentially chunking the transcript can come in handy. If you notice the LLM you're using is skipping parts of the transcript, you could just be at the limit of the model's ability to organize information at scale. 
 
@@ -60,7 +60,7 @@ I've included an example output from the full process below.
 #### Glossary / Appendix
 - [Python Script for Google Colab](https://github.com/krutzar/voice-notes-system/blob/main/whisper-notes-transcription.py)
 - [Easy Voice Recorder App](https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&hl=en_US&gl=US)
-- Notes Organizer Agent
+- [Notes Organizer Agent](https://github.com/krutzar/voice-notes-system/blob/main/notes-organizer-agent.md)
 - [OpenAI Whisper](https://github.com/openai/whisper)
 - Example of notes organized
 - [Obsidian](https://obsidian.md/)

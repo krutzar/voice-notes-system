@@ -58,8 +58,12 @@ While you'll need your own system at this point for organizing these notes, I'm 
 I've included an example output from the full process below. 
 
 #### Glossary / Appendix
-- Easy Voice Recorder App
+- [Python Script for Google Colab](https://github.com/krutzar/voice-notes-system/blob/main/whisper-notes-transcription.py)
+- [Easy Voice Recorder App](https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&hl=en_US&gl=US)
 - Notes Organizer Agent
-- OpenAI Whisper
+- [OpenAI Whisper](https://github.com/openai/whisper)
 - Example of notes organized
-- Obsidian
+- [Obsidian](https://obsidian.md/)
+
+
+[Follow My Work](https://rkseo.xyz/)

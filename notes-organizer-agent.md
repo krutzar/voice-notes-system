@@ -1,5 +1,7 @@
 AI / LLM "Agent" for organizing weekly notes. Organizes notes into themes, keeps original notes verbaitum, and ID's possible tasks you should add to your to-do. 
 
+Broadly follows [Dave Shapiro's Custom Instructions framework](https://github.com/daveshap/ChatGPT_Custom_Instructions)
+
 ```
 # MISSION
 

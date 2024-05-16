@@ -63,7 +63,8 @@ I've included an example output from the full voice notes transcription  process
 - [Easy Voice Recorder App](https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&hl=en_US&gl=US) (Available on both iphone / ios and android, available in both their app stores)
 - [Notes Organizer Agent](https://github.com/krutzar/voice-notes-system/blob/main/notes-organizer-agent.md)
 - [OpenAI Whisper](https://github.com/openai/whisper)
-- Example of notes organized
+- [Example Whisper transcript output](https://github.com/krutzar/voice-notes-system/blob/main/whisper-transcript-example.txt)
+- [Example of notes organized](https://github.com/krutzar/voice-notes-system/blob/main/agent-organization-output.md)
 - [Obsidian](https://obsidian.md/)
 
 #### For Experimental Purposes: Users you can ignore this. Purely for google.
